@@ -4,7 +4,7 @@ This project was handled to finish the Data Science Bootcamp training organized 
 - Berkan ACAR
 - Mert Ozan INAL
 - Muhammed CIMCI
-- Ismail KAYA
+- Muhammed CAKMAK
 - Umit CEYLAN
 
 
